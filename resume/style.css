@@ -6,9 +6,8 @@ color:#444;
 font-weight: 400;
 }
 
-  <h1>
-{
-color: # 334485e
+  <h1> {
+color:#334485e
 text-transform:uppercase:
 text-align:center:
 font-size: 3em;
@@ -27,3 +26,14 @@ strong {
     color:#ffffff;
     font-weight: 400:
 }
+color:#33485e
+text-transform:uppercase:
+font-size: 1.5em;
+}
+
+h2
+font-size: 1.5em
+text-transform:uppercase:
+background-color:#334485e
+color:#ffffff
+font-weight: 400:
