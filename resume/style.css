@@ -6,15 +6,16 @@ color:#444;
 font-weight: 400;
 }
 
-  <h1> {
+  #name {
 color:#334485e
 text-transform:uppercase:
 text-align:center:
 font-size: 3em;
+border-bottom:1px solid #334485e;
 }
 
 strong {
-  color:#33485e:
+  color:#33485e;
   text-transform:uppercase:
   font-size: 1.5em;
   }
@@ -22,7 +23,7 @@ strong {
   h2 {
     font-size:1.5em;
     text-transform:uppercase:
-    background-color:#33485e
+    background-color:#33485e;
     color:#ffffff;
     font-weight: 400:
 }
