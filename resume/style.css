@@ -14,20 +14,87 @@ font-size: 3em;
 border-bottom:1px solid #334485e;
 width:60%
 min-width: 300px
+margin 0 auto
 }
 
 strong {
+color:#33485e;
+text-transform:uppercase:
+font-size: 1.5em;
+  }
+
+  section header {
+font-size:1.5em;
+text-transform:uppercase:
+background-color:#33485e;
+color:#ffffff;
+<body>
+  <h1>  Rona Kobell</h1>
+  <div id="name">Rona Kobell</div>
+<strong>Environmental journalist</strong>
+font-family: 'Open Sans', arial, sans-serif;
+color:#444
+font-weight: 400;
+}
+
+  <h1> {
+  #name {
+color:#334485e
+text-transform:uppercase:
+text-align:center:
+font-size: 3em;
+border-bottom:1px solid #334485e;
+}
+
+strong {
+  color:#33485e:
   color:#33485e;
   text-transform:uppercase:
   font-size: 1.5em;
   }
-
   h2 {
     font-size:1.5em;
     text-transform:uppercase:
+    background-color:#33485e
     background-color:#33485e;
     color:#ffffff;
     font-weight: 400:
+    <body>
+      <h1>  Rona Kobell</h1>
+      <div id="name">Rona Kobell</div>
+    <strong>Environmental journalist</strong>
+    font-family: 'Open Sans', arial, sans-serif;
+    color:#444
+    font-weight: 400;
+    }
+
+      <h1> {
+      #name {
+    color:#334485e
+    text-transform:uppercase:
+    text-align:center:
+    font-size: 3em;
+    border-bottom:1px solid #334485e;
+    }
+
+    strong {
+      color:#33485e:
+      color:#33485e;
+      text-transform:uppercase:
+      font-size: 1.5em;
+      }
+      h2 {
+        font-size:1.5em;
+        text-transform:uppercase:
+        background-color:#33485e
+        background-color:#33485e;
+        color:#ffffff;
+        margin-top:20px:
+        margin-bottom:10px:
+        marign-left:0
+        margin-right:0
+
+
 }
 color:#33485e
 text-transform:uppercase:
