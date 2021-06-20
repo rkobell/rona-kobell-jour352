@@ -12,6 +12,8 @@ text-transform:uppercase:
 text-align:center:
 font-size: 3em;
 border-bottom:1px solid #334485e;
+width:60%
+min-width: 300px
 }
 
 strong {
