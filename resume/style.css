@@ -8,7 +8,7 @@ font-weight: 400;
   #name {
 color: #33485e;
 text-transform:uppercase;
-text-align:center;
+text-align: center;
 font-size:3em;
 border-bottom:1px solid; #33485e;
 width:60%;
@@ -18,7 +18,7 @@ margin 0 auto;
 
 
 
-title {
+#title {
 color:#33485e;
 text-transform:uppercase;
 font-size: 1.5em;
@@ -30,7 +30,7 @@ margin-right:0;
 
 }
 
-.section header {
+.sectionheader {
 font-size:1.5em;
 text-transform:uppercase;
 background-color:#33485e;
@@ -42,6 +42,35 @@ margin-right:0;
 width:70%;
 mid-width:300px;
 }
+
+.jobtitle {
+font-weight:600;
+font-size: 1.5em;
+}
+
+.organization {
+font-size: 1.5em;
+}
+
+.date {
+margin-top:2px;
+margin-bottom:0;
+margin-left:0;
+margin-right:0;
+}
+
+.description {
+margin-top:1opx;
+margin-bottom:10px;
+margin-left:0;
+margin-right:0;
+}
+.menu
+margin-top:0;
+margin-bottom:0;
+margin-left:0;
+margin-right:0;
+
 #container {
 width:100%;
 max-width: 1200px;
