@@ -25,46 +25,7 @@ margin-right:0;
 
 }
 
-.sectionheader {
-font-size:1.5em;
-text-transform:uppercase;
-background-color:#33485e;
-color:#ffffff;
-margin-top:20px;
-margin-bottom:10px;
-margin-left:0;
-margin-right:0;
-width:70%;
-mid-width:300px;
-}
 
-.jobtitle {
-font-weight:600;
-font-size: 1.5em;
-}
-
-.organization {
-font-size: 1.5em;
-}
-
-.date {
-margin-top:2px;
-margin-bottom:0;
-margin-left:0;
-margin-right:0;
-}
-
-.description {
-margin-top:1opx;
-margin-bottom:10px;
-margin-left:0;
-margin-right:0;
-}
-.menu
-margin-top:0;
-margin-bottom:0;
-margin-left:0;
-margin-right:0;
 
 #container {
 width:100%;
@@ -93,7 +54,7 @@ font-weight: 700;
 color:#f23030
 }
 
-/* thero splash area */
+/* hero splash area */
 .hero-container {
   postion:relative;
   text-align:center;
@@ -108,14 +69,39 @@ color:#f23030
   top:20%
   width:100%
   background-color:#000;
-  opacity: .7;
+  opacity: .7;}
 
 .hero-hed {
 font-family:'Playfair Display', serif;
 font-size:6em;
 color:#fff;
-margin: 0 auto;
+margin: 0 auto;}
 
-.hero-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6 {
-font-family:'Montserr', sans-serif;
-font-size:25em;
+.hero-sub {
+font-family:'Montserrat', sans-serif;
+font-size:25em;}
+
+/* pull quote */
+
+.quote {font-family:'Montserrat', sans-serif;
+color:#f23030
+font-size: 3em
+font-weight: 700;
+text-align:left;
+padding: 15px 0 15px 0;
+border-top: 1px solid #f23030;
+border-bottom: 1px solid #f23030;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+
+
+.quote-attribution {
+  font-size: .5em
+  font-family:'Montserrat', sans-serif;
+  font-weight: 100;
+  text-align:left;
+  color: #000;
+}
+
+/* end PQ */
