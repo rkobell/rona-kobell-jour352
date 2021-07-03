@@ -9,9 +9,14 @@ font-weight: 400;
 font-size:3em;
 font-weight: 700;
 text:align; left;
-font-family: "Montserrat"}
+font-family: "Montserrat"
+}
 
-
+#p {
+font-family: Times New Roman, serif
+line-height=100 %
+font-size: 1em;
+}
 
 #title {
 color:#33485e;
@@ -22,7 +27,6 @@ margin-top:20px;
 margin-bottom:0;
 margin-left:0;
 margin-right:0;
-
 }
 
 
