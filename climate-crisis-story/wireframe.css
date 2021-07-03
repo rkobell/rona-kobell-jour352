@@ -7,10 +7,10 @@ font-weight: 400;
 
 
 
-  #name {
+  #byline {
 color: #33485e;
 text-transform:uppercase;
-text-align: center;
+text-align:center;
 font-size:3em;
 border-bottom:1px solid; #33485e;
 width:60%;
@@ -87,4 +87,14 @@ font-size:1em;
 font-family: 'Montserrat', sans-serif;
 padding-top: 5px;
 padding-bottom: 5px;
+}
+/* top nav  / top hat */
+.nav-top {
+ color:#fff;
+margin: 0 auto;
+text-transform:uppercase;
+font-weight: 700;
+}
+.red {
+color:#f23030
 }
