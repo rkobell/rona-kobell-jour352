@@ -8,14 +8,14 @@ font-weight: 400;
   #Headline {
 font-size:3em;
 font-weight: 700;
-text:align; left;
-font-family: "Montserrat"
+text-align; left;
+font-family: "Montserrat";
 }
 
 #p {
-font-family: Times New Roman, serif
-line-height=100 %
-font-size: 1em;
+font-family:Times New Roman, serif;
+line-height:100%;
+font-size:1em;
 }
 
 #title {
