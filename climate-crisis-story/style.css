@@ -88,20 +88,25 @@ color:#f23030
   width: 100%;
 }
 
-}
+
 .second-image {
-  width: 60%;
+  width: 100%;
+  max-width:1200px;
 }
 
-}
+
 .third-image {
-  width: 60%;
-}
+width: 100%;
+max-width:1200px;
 
 }
 .fourth-image {
-  width: 60%;
+  width: 100%;
+  max-width:1200px;
 }
+
+
+
 .overlay {
   position:absolute;
   top:20%;
@@ -158,10 +163,10 @@ font-size: .5em;
 font-family:'Montserrat', sans-serif;
 text-align: uppercase;
 text-align: left;
-color: black
+color: black; }
 
 
-a:link{
+a:link {
   color: #f23030;
 }
 
@@ -171,3 +176,7 @@ a:hover{
 
 a:visited{
   color: black;
+}
+@media screen and (max-width: 580px) {
+  .container {background-color: orange;}
+}
