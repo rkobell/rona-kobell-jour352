@@ -5,15 +5,19 @@ color:#444;
 font-weight: 400;
 }
 
-#tab {
-  margin-left: 40px;
-}
 
-  #Headline {
+#headline {
 font-size:3em;
 font-weight: 700;
-text-align; left;
+text-align:center;
 font-family: "Montserrat";
+}
+
+#byline {
+  font-size: 1em;
+  font-family: "Montserrat";
+  text-align: uppercase;
+  text-align: center;
 }
 
 #p {
@@ -35,7 +39,7 @@ margin-right:0;
 
 
 
-#container {
+.container {
 width:100%;
 max-width: 1200px;
 margin: 0 auto;
@@ -72,6 +76,20 @@ color:#f23030
   width: 100%;
 }
 
+}
+.second-image {
+  width: 60%;
+}
+
+}
+.third-image {
+  width: 60%;
+}
+
+}
+.fourth-image {
+  width: 60%;
+}
 .overlay {
   position:absolute;
   top:20%;
