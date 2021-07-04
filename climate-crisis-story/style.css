@@ -26,6 +26,18 @@ line-height:100%;
 font-size:1em;
 }
 
+
+
+#sidebar {
+color:#33485e;
+text-transform:uppercase;
+font-size: 2em;
+font-weight: 600;
+margin-top:20px;
+margin-bottom:0;
+margin-left:0;
+margin-right:0;}
+
 #title {
 color:#33485e;
 text-transform:uppercase;
@@ -50,7 +62,7 @@ background-color:#fff;
 color:white;
 text-align:center;
 font-size:1em;
-font-family: 'Montserrat', sans-serif;
+font-family: "Montserrat", sans-serif;
 padding-top: 5px;
 padding-bottom: 5px;
 }
@@ -132,3 +144,11 @@ margin-bottom: 20px;
 }
 
 /* end PQ */
+
+.subhead {
+font-size: 2em;
+font-weight: 400;
+text-align:center;
+font-family: 'Montserrat', sans-serif;
+text-align:left;
+}
