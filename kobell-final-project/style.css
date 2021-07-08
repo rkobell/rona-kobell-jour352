@@ -89,15 +89,18 @@ font-weight: 700;
 
 .second-image {
   max-width: 100%;
+  margin: 0 auto;
 }
 
 
 .third-image {
   max-width: 100%;
+  margin: 0 auto;
 }
 
 .fourth-image {
   max-width: 100%;
+  margin: 0 auto;
 }
 
 .overlay {
