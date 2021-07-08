@@ -14,10 +14,12 @@ font-family: "Montserrat";
 }
 
 #byline {
-  font-size: 1em;
+  font-size: 1.2em;
   font-family: "Montserrat";
   text-align: uppercase;
   text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 
 #p {
@@ -26,17 +28,6 @@ line-height:100%;
 font-size:1em;
 }
 
-
-
-#sidebar {
-color:#33485e;
-text-transform:uppercase;
-font-size: 2em;
-font-weight: 600;
-margin-top:20px;
-margin-bottom:0;
-margin-left:0;
-margin-right:0;}
 
 #title {
 color:#33485e;
@@ -74,9 +65,7 @@ margin: 0 auto;
 text-transform:uppercase;
 font-weight: 700;
 }
-.red {
-color:#f23030
-}
+
 
 /* hero splash area */
 .hero-container {
@@ -85,7 +74,7 @@ color:#f23030
   color:#fff;
 }
 .hero-image {
-  width: 100%;
+  max-width: 100%;;
 }
 
 }
@@ -93,12 +82,11 @@ color:#f23030
   max-width: 100%;
 }
 
-}
+
 .third-image {
   max-width: 100%;
 }
 
-}
 .fourth-image {
   max-width: 100%;
 }
@@ -107,11 +95,12 @@ color:#f23030
   top:20%;
   width:100%;
   background-color:#000;
-  opacity: .7;}
+  opacity: .7;
+}
 
 .hero-hed {
 font-family:'Playfair Display', serif;
-font-size:6em;
+font-size:3em;
 color:#fff;
 margin: 0 auto;}
 
@@ -126,7 +115,7 @@ font-size:30pt;
 color:#f23030
 font-size: 3em
 font-weight: 700;
-text-align:left;
+text-align:center;
 padding: 15px 0 15px 0;
 border-top: 1px solid #f23030;
 border-bottom: 1px solid #f23030;
@@ -145,13 +134,7 @@ margin-bottom: 20px;
 
 /* end PQ */
 
-.subhead {
-font-size: 2em;
-font-weight: 400;
-text-align:center;
-font-family: 'Montserrat', sans-serif;
-text-align:left;
-}
+
 
 .source {
 font-size: .5em;
@@ -159,7 +142,7 @@ font-family:'Montserrat', sans-serif;
 text-align: uppercase;
 text-align: left;
 color: black
-
+}
 
 a:link{
   color: #f23030;
