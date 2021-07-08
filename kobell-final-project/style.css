@@ -22,6 +22,8 @@ font-family: "Montserrat";
   padding-bottom: 5px;
 }
 
+
+
 #p {
 font-family:Times New Roman, serif;
 line-height:100%;
@@ -73,11 +75,18 @@ font-weight: 700;
   text-align:center;
   color:#fff;
 }
+
 .hero-image {
-  width: 100%;
+  width:100%;
+  max-width:1200px;
+  margin-top:0;
+  margin-bottom:0;
+  margin-left:0;
+  margin-right:0;
 }
 
-}
+
+
 .second-image {
   max-width: 100%;
 }
@@ -90,31 +99,40 @@ font-weight: 700;
 .fourth-image {
   max-width: 100%;
 }
+
 .overlay {
   position:absolute;
-  top:20%;
+  top:15%;
   width:100%;
-  text-align: center;
+  text-align:center;
   background-color:#000;
-  opacity: .3;
+  opacity: .4;
 }
 
 .hero-hed {
 font-family:'Playfair Display', serif;
-font-size:3em;
+font-size:4.5em;
 color:#fff;
 margin: 0 auto;}
 
 .hero-sub {
 font-family:'Montserrat', sans-serif;
-font-size:30pt;
+font-size:25pt;
 }
 
+.caption {
+  font-size: 1em;
+  font-family: "Montserrat";
+  text-align: uppercase;
+  text-align: left;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
 /* pull quote */
 
 .quote {font-family:'Montserrat', sans-serif;
-color:blue
-font-size: 3em
+color:blue;
+font-size: 2em;
 font-weight: 700;
 text-align:center;
 padding: 15px 0 15px 0;
@@ -126,7 +144,7 @@ margin-bottom: 20px;
 
 
 .quote-attribution {
-  font-size: .5em
+  font-size: 1em;
   font-family:'Montserrat', sans-serif;
   font-weight: 100;
   text-align:left;
@@ -142,7 +160,7 @@ font-size: .5em;
 font-family:'Montserrat', sans-serif;
 text-align: uppercase;
 text-align: left;
-color: black
+color: black;
 }
 
 a:link{
@@ -155,3 +173,6 @@ a:hover{
 
 a:visited{
   color: black;
+
+  @media screen and (max-width: 580px) {
+    .container {background-color: blue;}
