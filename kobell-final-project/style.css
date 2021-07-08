@@ -172,16 +172,19 @@ text-align: center;
 color: red;
 }
 
-a:link{
-  color: #f23030;
-}
 
-a:hover{
-  color: blue;
-}
 
-a:visited{
-  color: black;
+  a:link {
+    color: #f23030;
+  }
 
-@media screen and (max-width: 580px) {
-  .container {background-color: blue;}
+  a:hover{
+    color: blue;
+  }
+
+  a:visited{
+    color: black;
+  }
+  @media screen and (max-width: 580px) {
+    .container {background-color: orange;}
+  }
