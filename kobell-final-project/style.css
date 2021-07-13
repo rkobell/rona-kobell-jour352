@@ -188,6 +188,3 @@ color: red;
   a:visited{
     color: black;
   }
-  @media screen and (max-width: 580px) {
-    .container {background-color: orange;}
-  }
